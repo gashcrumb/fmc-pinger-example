@@ -28,7 +28,7 @@
     <cm:default-properties>
       <cm:property name="rate" value="500" />
       <cm:property name="message" value="Message from sender!"/>
-      <cm:property name="outQueue" value="PING.SEND"/>
+      <cm:property name="outQueue" value="PING.2.0.SEND"/>
     </cm:default-properties>
   </cm:property-placeholder>
 

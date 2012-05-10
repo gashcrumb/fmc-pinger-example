@@ -26,7 +26,7 @@
   
   <cm:property-placeholder id="placeholder" persistent-id="org.fusesource.ping.receiver">
     <cm:default-properties>
-      <cm:property name="inQueue" value="PING.SEND"/>
+      <cm:property name="inQueue" value="PING.2.0.SEND"/>
     </cm:default-properties>
   </cm:property-placeholder>
 
