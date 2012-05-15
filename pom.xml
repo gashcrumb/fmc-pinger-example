@@ -172,7 +172,7 @@
     <repository>
       <id>fabric-maven-proxy</id>
       <name>FMC Maven Proxy</name>
-      <url>http://admin:admin@ec2-50-19-79-153.compute-1.amazonaws.com:8107/maven/upload/</url>
+      <url>http://admin:admin@ec2-23-22-3-67.compute-1.amazonaws.com:8107/maven/upload/</url>
     </repository>
   </distributionManagement>
 
