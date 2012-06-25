@@ -168,11 +168,14 @@
     </dependency>
   </dependencies>
 
+  <!-- Set up the build to deploy artifacts to the fabric server -->
+
   <distributionManagement>
     <repository>
       <id>fabric-maven-proxy</id>
       <name>FMC Maven Proxy</name>
-      <url>http://admin:admin@ec2-23-22-3-67.compute-1.amazonaws.com:8107/maven/upload/</url>
+      <!-- Change to your target host -->
+      <url>http://admin:admin@localhost:8107/maven/upload/</url>
     </repository>
   </distributionManagement>
 
