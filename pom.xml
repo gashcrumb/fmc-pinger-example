@@ -34,12 +34,12 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <fuse-build-version>061</fuse-build-version>
-    <activemq-version>5.5.1.fuse-7-${fuse-build-version}</activemq-version>
-    <camel-version>2.9.0.fuse-7-${fuse-build-version}</camel-version>
-    <fabric-version>7.0.0.fuse-${fuse-build-version}</fabric-version>
-    <karaf-version>2.2.5.fuse-7-${fuse-build-version}</karaf-version>
-    <smx-features-version>4.5.0.fuse-7-${fuse-build-version}</smx-features-version>    
+    <fuse-build-version>093</fuse-build-version>
+    <activemq-version>5.5.1.fuse-70-${fuse-build-version}</activemq-version>
+    <camel-version>2.9.0.fuse-70-${fuse-build-version}</camel-version>
+    <fabric-version>7.0.2.fuse-${fuse-build-version}</fabric-version>
+    <karaf-version>2.2.5.fuse-70-${fuse-build-version}</karaf-version>
+    <smx-features-version>4.5.0.fuse-70-${fuse-build-version}</smx-features-version>    
     <slf4j-api-version>1.6.1</slf4j-api-version>
   </properties>
 
