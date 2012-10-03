@@ -34,7 +34,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <fuse-build-version>096</fuse-build-version>
+    <fuse-build-version>097</fuse-build-version>
     <activemq-version>5.5.1.fuse-70-${fuse-build-version}</activemq-version>
     <camel-version>2.9.0.fuse-70-${fuse-build-version}</camel-version>
     <fabric-version>7.0.2.fuse-${fuse-build-version}</fabric-version>
@@ -175,7 +175,7 @@
       <id>fabric-maven-proxy</id>
       <name>FMC Maven Proxy</name>
       <!-- Change to your target host -->
-      <url>http://admin:admin@ec2-23-20-74-0.compute-1.amazonaws.com:8107/maven/upload/</url>
+      <url>http://admin:admin@ec2-23-23-69-159.compute-1.amazonaws.com:8107/maven/upload/</url>
     </repository>
   </distributionManagement>
 
