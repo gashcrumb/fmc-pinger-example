@@ -41,7 +41,7 @@
     <karaf-version>2.2.5.fuse-70-${fuse-build-version}</karaf-version>
     <smx-features-version>4.5.0.fuse-70-${fuse-build-version}</smx-features-version>    
     <slf4j-api-version>1.6.1</slf4j-api-version>
-    <deploy-host>ec2-23-22-245-73.compute-1.amazonaws.com</deploy-host>
+    <deploy-host>ec2-23-22-40-12.compute-1.amazonaws.com</deploy-host>
   </properties>
 
   <modules>
